@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mvtra/UDACITY/Kalman_Filters/ukf-exercise/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g   -std=c++11 -o CMakeFiles\\ukf_exercise.dir\\main.cpp.obj -c C:\\Users\\mvtra\\UDACITY\\Kalman_Filters\\ukf-exercise\\main.cpp",
+  "file": "C:\\Users\\mvtra\\UDACITY\\Kalman_Filters\\ukf-exercise\\main.cpp",
+  "output": "CMakeFiles\\ukf_exercise.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/mvtra/UDACITY/Kalman_Filters/ukf-exercise/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g   -std=c++11 -o CMakeFiles\\ukf_exercise.dir\\ukf.cpp.obj -c C:\\Users\\mvtra\\UDACITY\\Kalman_Filters\\ukf-exercise\\ukf.cpp",
+  "file": "C:\\Users\\mvtra\\UDACITY\\Kalman_Filters\\ukf-exercise\\ukf.cpp",
+  "output": "CMakeFiles\\ukf_exercise.dir\\ukf.cpp.obj"
+}
+]
